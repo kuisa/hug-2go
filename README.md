@@ -9,3 +9,5 @@
 * NEZHA_KEY
 * NAME
 * CFIP
+
+加好变量后,一般+ARGO_DOMAIN和ARGO_AUTH通过分配的域名+/sub进行订阅
